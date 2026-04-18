@@ -10,5 +10,5 @@
 
     public Product Product { get; set; }
 
-    public int Quantity { get; set; }
+    public int Quantity { get; set; } // Quantity of the product in the cart
 }
